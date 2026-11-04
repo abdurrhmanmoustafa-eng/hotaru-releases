@@ -1,11 +1,11 @@
 {
-    "version":  "0.5.0",
-    "notes":  "Conversations keep going: after it answers, just keep talking. It stays awake in the background until two minutes pass with nothing said; hover over the island and tap x to end sooner. Waking by name, talking over it and follow-ups now hear quiet, natural speech much more reliably.",
-    "pub_date":  "2026-11-04T12:20:06Z",
+    "version":  "0.6.0",
+    "notes":  "Connections can now sign in through the browser (OAuth), so apps like Composio, Notion and GitHub work: add their MCP address in Settings, Connections, then tap Sign in.",
+    "pub_date":  "2026-11-04T19:15:51Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVXYzR2JMbUNiQXhEV2gweWJ2dzVkbmFpZFdrbjZVbGtUOVorRXJvcHhoRHBualhWSWpXOWdxQzdKbHFURUdVaStHazQyZHdCSVFMVW9Vc25QellhVGVxK1E4T1NIYndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzk0ODA2CWZpbGU6SG90YXJ1XzAuNS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMAo3bWg4UVd4ODMyeHZNYVpvbUI0clFMR05KR0J1TE9BZDhRdjAwZ0Q3NGRTbER6eWtmOUk4bnV1UHh0ZHlBZmlNM0FSbWVseHRkRTlGcWVmVy9EUDZEUT09Cg==",
-                                             "url":  "https://github.com/abdurrhmanmoustafa-eng/hotaru-releases/releases/download/v0.5/Hotaru_0.5.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVXYzR2JMbUNiQStDdFRLbVZqa0Z5UU5scUJrZ0JiVW00WWV0WlJwMHBUc1lGcHN4NTdBWTFGdzVCNm9GRWNORlFXb0hvTVkzQUJvT2NsZEFnYjllWnVnS3BsZVNzUUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODE5NzUxCWZpbGU6SG90YXJ1XzAuNi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuMApGSjhhVFBsdU5wVjh1OE15Mkp0bG14OXdDZmJFSXZMYjV6eEhzaXlIZmJRTVVmblpsc1Vxa3FCd0dSK2J3S0JVTXdnWWRUQS9Ia2NWeHYzcXZoTnBEUT09Cg==",
+                                             "url":  "https://github.com/abdurrhmanmoustafa-eng/hotaru-releases/releases/download/v0.6/Hotaru_0.6.0_x64-setup.exe"
                                          }
                   }
 }

@@ -1,11 +1,11 @@
 {
-    "version":  "0.6.0",
-    "notes":  "Connections can now sign in through the browser (OAuth), so apps like Composio, Notion and GitHub work: add their MCP address in Settings, Connections, then tap Sign in.",
-    "pub_date":  "2026-11-04T19:15:51Z",
+    "version":  "0.7.0",
+    "notes":  "Connect your own Telegram bot in Settings, Connections, and text Hotaru from anywhere: it uses the same tools as voice, understands voice notes and photos, sends screenshots, and asks Yes/No in the chat.",
+    "pub_date":  "2026-11-04T19:38:07Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVXYzR2JMbUNiQStDdFRLbVZqa0Z5UU5scUJrZ0JiVW00WWV0WlJwMHBUc1lGcHN4NTdBWTFGdzVCNm9GRWNORlFXb0hvTVkzQUJvT2NsZEFnYjllWnVnS3BsZVNzUUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODE5NzUxCWZpbGU6SG90YXJ1XzAuNi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuMApGSjhhVFBsdU5wVjh1OE15Mkp0bG14OXdDZmJFSXZMYjV6eEhzaXlIZmJRTVVmblpsc1Vxa3FCd0dSK2J3S0JVTXdnWWRUQS9Ia2NWeHYzcXZoTnBEUT09Cg==",
-                                             "url":  "https://github.com/abdurrhmanmoustafa-eng/hotaru-releases/releases/download/v0.6/Hotaru_0.6.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVXYzR2JMbUNiQTAxRzlrOEZzVG1qbkJGenpTRTE5RlNpS1hlQm1SOVpEZUhYbitINVY5cU4wREU5dTJnVVRVeFhhNHB0RVpBTTIvK0ozWUVVZlZWTEVWaUR5QlAvRUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODIxMDg3CWZpbGU6SG90YXJ1XzAuNy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMApWZGk3MUlQek83TUJuT1JSamlnOUdlV1picUdWUlBSeUZaWXFZMmJuY3VrRWh0M0NVbHpwbFBYK1RKbXdncStSNlhhYmZhYUNmcjZsK0VvRXFnSm9DUT09Cg==",
+                                             "url":  "https://github.com/abdurrhmanmoustafa-eng/hotaru-releases/releases/download/v0.7/Hotaru_0.7.0_x64-setup.exe"
                                          }
                   }
 }

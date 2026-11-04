@@ -1,0 +1,11 @@
+{
+    "version":  "0.3.0",
+    "notes":  "Wake by name: say Hey Hotaru (or the name you give it in Settings, Soul) and talk, hands-free. Rename your companion. Turn wake by name off in Settings, General.",
+    "pub_date":  "2026-11-04T11:11:34Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVXYzR2JMbUNiQThoS0pxa0J5bitrWlhmSzNzR3lCWXVCVWF4ZXc2QzhrZU85R211emRsNHhZaXFtSXp2anZaZjBKMVFsRGxQeDhQSGd5eHQ5TjJVQmVvOGUzeGx4amdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzkwNjk0CWZpbGU6SG90YXJ1XzAuMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMApURTU2V1hPUjV0RC9zbTdQY3JaTytWdzl5SW1MSU5uaGJRWCtBcGMvSTZ0VExSb3RoNGMwSTZ5bG00eUtsMjVpMUptalBZN0xsQmpvTUk2VFZXSGZCUT09Cg==",
+                                             "url":  "https://github.com/abdurrhmanmoustafa-eng/hotaru-releases/releases/download/v0.3/Hotaru_0.3.0_x64-setup.exe"
+                                         }
+                  }
+}

@@ -1,11 +1,11 @@
 {
-    "version":  "0.4.0",
-    "notes":  "Talk over Hotaru: start speaking while it answers and it stops to listen. After it answers, just keep talking for a few seconds, no name or keys needed. Switch it off in Settings, General, Talk over it.",
-    "pub_date":  "2026-11-04T11:23:59Z",
+    "version":  "0.5.0",
+    "notes":  "Conversations keep going: after it answers, just keep talking. It stays awake in the background until two minutes pass with nothing said; hover over the island and tap x to end sooner. Waking by name, talking over it and follow-ups now hear quiet, natural speech much more reliably.",
+    "pub_date":  "2026-11-04T12:20:06Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVXYzR2JMbUNiQXg2NGtCc3VZK2t6SldMdHVtSWtGTXh5eWFMT1g1emo1OFZJdnNTZU00VE9VUWhvSmZrWWI5ZDg4a3NCa1hTTnNyV0V4bk5KY1o5eHFudUI5aEtOdHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzkxNDM4CWZpbGU6SG90YXJ1XzAuNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMAp2c3NXTEtaSnNIM1lYMjAyUEdGN25tODZ3VUkxYzdxM29wR3BobSt2RTlZaW9VMDdiVTdVWnVPYXVIdm01L3FUVjhxaXNGWUEzNG5nVkVibWdQT2JBQT09Cg==",
-                                             "url":  "https://github.com/abdurrhmanmoustafa-eng/hotaru-releases/releases/download/v0.4/Hotaru_0.4.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVXYzR2JMbUNiQXhEV2gweWJ2dzVkbmFpZFdrbjZVbGtUOVorRXJvcHhoRHBualhWSWpXOWdxQzdKbHFURUdVaStHazQyZHdCSVFMVW9Vc25QellhVGVxK1E4T1NIYndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzk0ODA2CWZpbGU6SG90YXJ1XzAuNS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMAo3bWg4UVd4ODMyeHZNYVpvbUI0clFMR05KR0J1TE9BZDhRdjAwZ0Q3NGRTbER6eWtmOUk4bnV1UHh0ZHlBZmlNM0FSbWVseHRkRTlGcWVmVy9EUDZEUT09Cg==",
+                                             "url":  "https://github.com/abdurrhmanmoustafa-eng/hotaru-releases/releases/download/v0.5/Hotaru_0.5.0_x64-setup.exe"
                                          }
                   }
 }

@@ -1,11 +1,11 @@
 {
-    "version":  "0.3.0",
-    "notes":  "Wake by name: say Hey Hotaru (or the name you give it in Settings, Soul) and talk, hands-free. Rename your companion. Turn wake by name off in Settings, General.",
-    "pub_date":  "2026-11-04T11:11:34Z",
+    "version":  "0.4.0",
+    "notes":  "Talk over Hotaru: start speaking while it answers and it stops to listen. After it answers, just keep talking for a few seconds, no name or keys needed. Switch it off in Settings, General, Talk over it.",
+    "pub_date":  "2026-11-04T11:23:59Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVXYzR2JMbUNiQThoS0pxa0J5bitrWlhmSzNzR3lCWXVCVWF4ZXc2QzhrZU85R211emRsNHhZaXFtSXp2anZaZjBKMVFsRGxQeDhQSGd5eHQ5TjJVQmVvOGUzeGx4amdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzkwNjk0CWZpbGU6SG90YXJ1XzAuMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMApURTU2V1hPUjV0RC9zbTdQY3JaTytWdzl5SW1MSU5uaGJRWCtBcGMvSTZ0VExSb3RoNGMwSTZ5bG00eUtsMjVpMUptalBZN0xsQmpvTUk2VFZXSGZCUT09Cg==",
-                                             "url":  "https://github.com/abdurrhmanmoustafa-eng/hotaru-releases/releases/download/v0.3/Hotaru_0.3.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVXYzR2JMbUNiQXg2NGtCc3VZK2t6SldMdHVtSWtGTXh5eWFMT1g1emo1OFZJdnNTZU00VE9VUWhvSmZrWWI5ZDg4a3NCa1hTTnNyV0V4bk5KY1o5eHFudUI5aEtOdHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzkxNDM4CWZpbGU6SG90YXJ1XzAuNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMAp2c3NXTEtaSnNIM1lYMjAyUEdGN25tODZ3VUkxYzdxM29wR3BobSt2RTlZaW9VMDdiVTdVWnVPYXVIdm01L3FUVjhxaXNGWUEzNG5nVkVibWdQT2JBQT09Cg==",
+                                             "url":  "https://github.com/abdurrhmanmoustafa-eng/hotaru-releases/releases/download/v0.4/Hotaru_0.4.0_x64-setup.exe"
                                          }
                   }
 }

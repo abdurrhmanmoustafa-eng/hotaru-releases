@@ -6,6 +6,14 @@
                       "windows-x86_64":  {
                                              "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVXYzR2JMbUNiQXdyK1V0VS9NZzQzTndWTU9Qbkk3dG9vbDdZQ0J1Y2V0N25QYzlhQmY4ZTU4S0NpSDA0ek1JcVJqRmdCNE1jYWo1TlVUVUZiR2pTUkFwTmtUOUkzQVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc0NjY5CWZpbGU6SG90YXJ1XzAuOS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMQprbG1NTy9FQ3RseWI2dVVoTkpQRWo5SXlGcCtDSFdYVVh2bzdTSXVvaXR0TW04VU1JRlJoRHlONDhTZWU2d09ndWJoMm9rS1Z0SVVBM0pIc2NzeEdCZz09Cg==",
                                              "url":  "https://github.com/abdurrhmanmoustafa-eng/hotaru-releases/releases/download/v0.9.1/Hotaru_0.9.1_x64-setup.exe"
-                                         }
+                                         },
+                      "darwin-aarch64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVXYzR2JMbUNiQTcwc2o0MGpDRTBmUm5iK3cvVGM1ZUJWNVRXTkRpaE1qWERIbW1JekxoWTVwTmo5R3lCT2VKeGZYWVNvVEtESGFCdVFkbUFQZ0F3Vkt0dnVyQ1A1K3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc1NDI5CWZpbGU6SG90YXJ1LmFwcC50YXIuZ3oJdmVyc2lvbjowLjkuMQpLaGpWZjJMTVZVeGkrWTB4d0VvL3JsSjNjZjk2SUlaQThrS0o0TVRhWFVRRy9VUHQ2Q2E1RjJGQUJoNWlFR2tqNSt0ekROd0w5YVJGd2lscnBnNGhCZz09Cg==",
+                                             "url":  "https://github.com/abdurrhmanmoustafa-eng/hotaru-releases/releases/download/v0.9.1-mac/Hotaru_0.9.1_mac.app.tar.gz"
+                                         },
+                      "darwin-x86_64":  {
+                                            "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVXYzR2JMbUNiQTcwc2o0MGpDRTBmUm5iK3cvVGM1ZUJWNVRXTkRpaE1qWERIbW1JekxoWTVwTmo5R3lCT2VKeGZYWVNvVEtESGFCdVFkbUFQZ0F3Vkt0dnVyQ1A1K3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc1NDI5CWZpbGU6SG90YXJ1LmFwcC50YXIuZ3oJdmVyc2lvbjowLjkuMQpLaGpWZjJMTVZVeGkrWTB4d0VvL3JsSjNjZjk2SUlaQThrS0o0TVRhWFVRRy9VUHQ2Q2E1RjJGQUJoNWlFR2tqNSt0ekROd0w5YVJGd2lscnBnNGhCZz09Cg==",
+                                            "url":  "https://github.com/abdurrhmanmoustafa-eng/hotaru-releases/releases/download/v0.9.1-mac/Hotaru_0.9.1_mac.app.tar.gz"
+                                        }
                   }
 }

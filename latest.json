@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.0",
-    "notes":  "New in this beta:\n\n- First-run setup: a short walkthrough the first time you open Hotaru - your Gemini key, pick a soul, choose a personality and name, and connect Telegram. Skip anything. Run it again any time from Settings -\u003e Get started.\n- Meeting and lecture notes: say \"take notes for this lecture\" or tap Meeting / Lecture in the Control Centre\u0027s Today tab. Hotaru only listens - no wake word, no replies - until you press Stop on the island. Then it writes your notes (summary, key points, to-dos, and for lectures the key concepts and what to review), saves them to Documents\\Hotaru Notes and opens them. To-dos go straight onto your list.\n- When Google is busy or your free Gemini limit runs out, Hotaru now falls back to a lighter model instead of giving up.",
-    "pub_date":  "2026-11-05T13:25:34Z",
+    "version":  "0.9.1",
+    "notes":  "**Type instead of talking.** Can\u0027t talk out loud right now? Tap Win + Shift (press and let go), or the keyboard button on the island, type your message and press Enter. The answer shows on the island and nothing is said out loud. It\u0027s the same conversation as talking, so Hotaru can still open apps, play music and so on.\n\n**Quiet mode.** Settings \u003e General \u003e Quiet mode: every answer is shown on the island instead of spoken, even when you talk to it.\n\nMac: the island now shows over full-screen apps too.",
+    "pub_date":  "2026-11-06T14:17:49Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVXYzR2JMbUNiQTdoWGx3c3NGQmRrN2JGVmt4MGU1VFplQ0RUam82K2s0Nk42WEhFdWxXOXE2ZGJCT1FPZjcwNXFWVThtVU5mUnZPSUVlZys5dmQyQXFkQWpkcGo1U2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODg1MTM0CWZpbGU6SG90YXJ1XzAuOS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMApOcFpQSjlrM05YdkFyLzUwaThmS0ZJeXVjZXJXY0gvbWUzSUhXSzlRNTNMSElzemZNeUFYSDZEcVBaMmt1eWlLajdNNXpSNk9WenBYS0pJSnR4dDlBdz09Cg==",
-                                             "url":  "https://github.com/abdurrhmanmoustafa-eng/hotaru-releases/releases/download/v0.9/Hotaru_0.9.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVXYzR2JMbUNiQXdyK1V0VS9NZzQzTndWTU9Qbkk3dG9vbDdZQ0J1Y2V0N25QYzlhQmY4ZTU4S0NpSDA0ek1JcVJqRmdCNE1jYWo1TlVUVUZiR2pTUkFwTmtUOUkzQVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc0NjY5CWZpbGU6SG90YXJ1XzAuOS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMQprbG1NTy9FQ3RseWI2dVVoTkpQRWo5SXlGcCtDSFdYVVh2bzdTSXVvaXR0TW04VU1JRlJoRHlONDhTZWU2d09ndWJoMm9rS1Z0SVVBM0pIc2NzeEdCZz09Cg==",
+                                             "url":  "https://github.com/abdurrhmanmoustafa-eng/hotaru-releases/releases/download/v0.9.1/Hotaru_0.9.1_x64-setup.exe"
                                          }
                   }
 }

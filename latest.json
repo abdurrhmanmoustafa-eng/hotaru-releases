@@ -1,19 +1,11 @@
 {
-    "version":  "0.9.1",
-    "notes":  "**Type instead of talking.** Can\u0027t talk out loud right now? Tap Win + Shift (press and let go), or the keyboard button on the island, type your message and press Enter. The answer shows on the island and nothing is said out loud. It\u0027s the same conversation as talking, so Hotaru can still open apps, play music and so on.\n\n**Quiet mode.** Settings \u003e General \u003e Quiet mode: every answer is shown on the island instead of spoken, even when you talk to it.\n\nMac: the island now shows over full-screen apps too.",
-    "pub_date":  "2026-11-06T14:17:49Z",
+    "version":  "0.9.2",
+    "notes":  "**Work in the background.** Hotaru now has its own browser, hidden away, so it can get things done on the web while you keep using your computer. Say something like \"in the background, find me the cheapest flights to Tokyo in March\" or \"while I work, compare these three laptops\". It searches and reads through sites by itself, without touching your mouse, keyboard or windows, and tells you what it found when it\u0027s done (or texts you, if you asked from your phone).\n\n- Ask \"how\u0027s it going?\" or \"what did you find?\" any time, or \"stop that\".\n- A small glowing dot on the island means it\u0027s working.\n- Say \"show me your browser\" (or Settings \u003e General \u003e Open its browser) to watch it, or to sign in to a site once so it can use it.\n- It never buys, pays or types passwords: it gets things ready and lets you finish.\n\nNeeds Google Chrome, Microsoft Edge or Brave installed (every Windows PC has Edge).",
+    "pub_date":  "2026-11-06T15:20:09Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVXYzR2JMbUNiQXdyK1V0VS9NZzQzTndWTU9Qbkk3dG9vbDdZQ0J1Y2V0N25QYzlhQmY4ZTU4S0NpSDA0ek1JcVJqRmdCNE1jYWo1TlVUVUZiR2pTUkFwTmtUOUkzQVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc0NjY5CWZpbGU6SG90YXJ1XzAuOS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMQprbG1NTy9FQ3RseWI2dVVoTkpQRWo5SXlGcCtDSFdYVVh2bzdTSXVvaXR0TW04VU1JRlJoRHlONDhTZWU2d09ndWJoMm9rS1Z0SVVBM0pIc2NzeEdCZz09Cg==",
-                                             "url":  "https://github.com/abdurrhmanmoustafa-eng/hotaru-releases/releases/download/v0.9.1/Hotaru_0.9.1_x64-setup.exe"
-                                         },
-                      "darwin-aarch64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVXYzR2JMbUNiQTcwc2o0MGpDRTBmUm5iK3cvVGM1ZUJWNVRXTkRpaE1qWERIbW1JekxoWTVwTmo5R3lCT2VKeGZYWVNvVEtESGFCdVFkbUFQZ0F3Vkt0dnVyQ1A1K3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc1NDI5CWZpbGU6SG90YXJ1LmFwcC50YXIuZ3oJdmVyc2lvbjowLjkuMQpLaGpWZjJMTVZVeGkrWTB4d0VvL3JsSjNjZjk2SUlaQThrS0o0TVRhWFVRRy9VUHQ2Q2E1RjJGQUJoNWlFR2tqNSt0ekROd0w5YVJGd2lscnBnNGhCZz09Cg==",
-                                             "url":  "https://github.com/abdurrhmanmoustafa-eng/hotaru-releases/releases/download/v0.9.1-mac/Hotaru_0.9.1_mac.app.tar.gz"
-                                         },
-                      "darwin-x86_64":  {
-                                            "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVXYzR2JMbUNiQTcwc2o0MGpDRTBmUm5iK3cvVGM1ZUJWNVRXTkRpaE1qWERIbW1JekxoWTVwTmo5R3lCT2VKeGZYWVNvVEtESGFCdVFkbUFQZ0F3Vkt0dnVyQ1A1K3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc1NDI5CWZpbGU6SG90YXJ1LmFwcC50YXIuZ3oJdmVyc2lvbjowLjkuMQpLaGpWZjJMTVZVeGkrWTB4d0VvL3JsSjNjZjk2SUlaQThrS0o0TVRhWFVRRy9VUHQ2Q2E1RjJGQUJoNWlFR2tqNSt0ekROd0w5YVJGd2lscnBnNGhCZz09Cg==",
-                                            "url":  "https://github.com/abdurrhmanmoustafa-eng/hotaru-releases/releases/download/v0.9.1-mac/Hotaru_0.9.1_mac.app.tar.gz"
-                                        }
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVXYzR2JMbUNiQTlkWDlsMjA1eEhzazJjYW5SRUQvcGZzT2FwU2NYZStOZ1R5Z3ROMlpDY2JCQ2dzMC9haHZ5WWcyUFQyemg4R1JRalQrWFRySFp6ZFNpOTdUV3Z3Q1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc4NDA5CWZpbGU6SG90YXJ1XzAuOS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMgpIemFjcEJFUTZYZzY5NTVlWnlPZ2dra3l4eGFBdHBMdmUzQUpjVEJTN3BCdUs5OVJwNzNxZE04VW9YaDIwWlYrOGpkcTRDZy9iWHJmWTcwa0xmS2tDUT09Cg==",
+                                             "url":  "https://github.com/abdurrhmanmoustafa-eng/hotaru-releases/releases/download/v0.9.2/Hotaru_0.9.2_x64-setup.exe"
+                                         }
                   }
 }
